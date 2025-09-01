@@ -1,4 +1,8 @@
  HOLA MUNDO OTRA VEZ 
+<<<<<<< HEAD
 linea 2 
 linea 3
 linea 4
+=======
+linea 2 
+>>>>>>> parent of 8194165 (linea 3)
